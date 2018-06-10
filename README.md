@@ -3,7 +3,7 @@ Free Download Claymore Ethereum Miner 11.6 No Fee
 
 Download Claymore 11.6 Ethereum Miner No DevFee Below
 
-Direct download link: https://github.com/jrnopnop/Ethereum-Claymore-11.6-No-Fee---DevFee-Removed/blob/master/FeeRemoved%20Claymore's%20Dual%20Ethereum%2BDecred_Siacoin_Lbry_Pascal_Blake2s_Keccak%20AMD%2BNVIDIA%20GPU%20Miner%20v11.6.zip
+Direct download link: https://github.com/jrnopnop/Ethereum-Claymore-11.6-No-Fee---DevFee-Removed/archive/master.zip
 
 Miner is patched so you don't have to do anything, just start mining.
 
